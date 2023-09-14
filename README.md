@@ -41,11 +41,11 @@ SO THAT my company can compete with other e-commerce companies
 
 ### Testing in Insomnia
 
-![Testing GET routes in Insomnia](./Assets/13-orm-homework-demo-01.gif)
+![Testing GET routes in Insomnia](./images/routes1.png)
 
-![Testing GET routes in Insomnia](./Assets/13-orm-homework-demo-02.gif)
+![Testing GET routes in Insomnia](./images/routes2.png)
 
-![Testing POST, PUT, and DELETE routes in Insomnia](./Assets/13-orm-homework-demo-03.gif)
+![Testing POST, PUT, and DELETE routes in Insomnia](./images/routes3.png)
 
 ## Getting Started
 
