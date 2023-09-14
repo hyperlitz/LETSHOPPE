@@ -108,15 +108,15 @@ In server.js, the code is provided to sync the Sequelize models to the MySQL dat
 
 Please refer to the walkthrough video for a demonstration of the project's functionality and how it meets the acceptance criteria.
 
-[Walkthrough Video](#walkthrough-video-link)
+[Walkthrough Video](https://drive.google.com/file/d/1eoTpyADva0OJfqfZj6dCLi7DU06fi5L0/view)
 
 ## Repository Link
 
-[GitHub Repository](#repository-link)
+[GitHub Repository](https://github.com/hyperlitz/LETSHOPPE)
 
 ## Owner Credits
 
-This project was created by [Owner Name](#owner-credits) and serves as a demonstration of their skills and expertise. Feel free to reach out to the owner for any inquiries or feedback related to this project.
+This project was created by [Owner Name](Lolito Banano) and serves as a demonstration of their skills and expertise. Feel free to reach out to the owner for any inquiries or feedback related to this project.
 
 ---
 
